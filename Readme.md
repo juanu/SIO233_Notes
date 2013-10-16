@@ -6,3 +6,6 @@ You can also visualize the content using the NBViewer:
 
 ####Intro Python 1
 <http://nbviewer.ipython.org/urls/raw.github.com/juanu/SIO233_Notes/master/IntroPython1.ipynb>
+
+####Week 2
+<http://nbviewer.ipython.org/urls/raw.github.com/juanu/SIO233_Notes/master/IntroPython_Week2.ipynb>

@@ -9,3 +9,6 @@ You can also visualize the content using the NBViewer:
 
 ####Week 2
 <http://nbviewer.ipython.org/urls/raw.github.com/juanu/SIO233_Notes/master/IntroPython_Week2.ipynb>
+
+####Week 3
+<http://nbviewer.ipython.org/urls/raw.github.com/juanu/SIO233_Notes/master/Python_Week3.ipynb>
